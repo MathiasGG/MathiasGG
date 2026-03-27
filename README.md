@@ -33,14 +33,6 @@ Projeto em desenvolvimento (≈80% concluído) com foco em responsividade e repr
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MathiasGG&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MathiasGG&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mathiascorrêa2006)
