@@ -37,4 +37,4 @@ Busco minha primeira oportunidade como desenvolvedor, com foco em aprendizado co
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mathiascorrêa2006)
 
-[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail)](mailto:Mathiascorrea2006@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=mathiascorrea2006@gmail.com)
