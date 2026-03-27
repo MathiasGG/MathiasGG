@@ -23,7 +23,8 @@ Busco minha primeira oportunidade como desenvolvedor, com foco em aprendizado co
 ## 📂 Projetos
 
 ### 🎬 Clone da Netflix
-Projeto em desenvolvimento (≈80% concluído) com foco em responsividade e reprodução de layout moderno inspirado na Netflix.
+👉 [Ver projeto online](netflix-cloned-by-mathias.vercel.app)
+👉 [Repositório](https://github.com/MathiasGG/netflix-clone)
 
 🔹 Interface moderna e responsiva  
 🔹 Estrutura organizada de código  
