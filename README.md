@@ -23,7 +23,7 @@ Busco minha primeira oportunidade como desenvolvedor, com foco em aprendizado co
 ## 📂 Projetos
 
 ### 🎬 Clone da Netflix
-👉 [Ver projeto online](netflix-cloned-by-mathias.vercel.app)
+👉 [Ver projeto online](https://netflix-cloned-by-mathias.vercel.app)
 
 👉 [Repositório](https://github.com/MathiasGG/netflix-clone)
 
