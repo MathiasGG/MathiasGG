@@ -35,9 +35,7 @@ Projeto em desenvolvimento (≈80% concluído) com foco em responsividade e repr
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MathiasGG&show_icons=true&theme=default&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathiasGG&layout=compact&theme=default&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=MathiasGG&theme=tokyonight&hide_border=true
 
 ---
 
