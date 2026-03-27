@@ -35,7 +35,9 @@ Projeto em desenvolvimento (≈80% concluído) com foco em responsividade e repr
 
 ## 📊 Estatísticas
 
-![Streak](https://streak-stats.demolab.com?user=MathiasGG&theme=tokyonight&hide_border=true
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MathiasGG&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MathiasGG&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
