@@ -34,6 +34,7 @@ Busco minha primeira oportunidade como desenvolvedor, com foco em aprendizado co
 ---
 
 ### ☕ Cafeteria Landing Page
+
 👉 [Ver projeto online](https://cafeteria-landingpage-by-mathias.vercel.app)
 
 👉 [Repositório](https://github.com/MathiasGG/Cafeteria-LandingPage)
