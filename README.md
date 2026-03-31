@@ -40,9 +40,13 @@ Busco minha primeira oportunidade como desenvolvedor, com foco em aprendizado co
 👉 [Repositório](https://github.com/MathiasGG/Cafeteria-LandingPage)
 
 🔹 Interface moderna com foco em experiência do usuário
+
 🔹 Layout totalmente responsivo utilizando **Flexbox** e **Media Queries**
+
 🔹 Otimizado para dispositivos móveis com breakpoints de 768px
+
 🔹 Desenvolvido com HTML5 semântico e CSS3 puro.
+
 ---
 
 ## 📫 Contato
