@@ -25,7 +25,7 @@ Atualmente, estou em busca da minha primeira oportunidade na área de tecnologia
 
 ### ⚙️ Ferramentas  
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github))
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode)
 
 ---
