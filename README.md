@@ -40,7 +40,7 @@ continuar evoluindo na área.
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
-![Lógica de Programação](https://img.shields.io/badge/Lógica%20de%20Programação-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Lógica de Programação](https://img.shields.io/badge/Lógica%20de%20Programação-F7DF1E?style=for-the-badge&logo=codeforces&logoColor=black)
 
 ---
 
