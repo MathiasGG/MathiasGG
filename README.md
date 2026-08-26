@@ -1,24 +1,32 @@
 # 👋 Olá, eu sou o Mathias Corrêa  
 
-💻 Desenvolvedor Front-end em formação  
-🚀 Focado em criar interfaces modernas, responsivas e com boa experiência do usuário  
+📖 Estudante de Análise e Desenvolvimento de Sistemas
+💻 TI & Suporte | Buscando minha primeira oportunidade  
 📍 Brasil  
 
 ---
 
 ## 🧠 Sobre mim  
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Front-end.  
+Sou estudante de ADS e estou construindo minha carreira
+na área de Tecnologia da Informação.
 
-Tenho experiência anterior na área gráfica, onde desenvolvi habilidades como organização, atenção aos detalhes e responsabilidade — competências que aplico diretamente no desenvolvimento de software.  
+Tenho interesse em Suporte Técnico, Help Desk e
+Infraestrutura, além de conhecimentos em desenvolvimento
+web adquiridos através de projetos pessoais.
 
-Atualmente, estou em busca da minha primeira oportunidade na área de tecnologia, com foco em aprendizado contínuo e evolução profissional.  
+Busco minha primeira oportunidade profissional para
+aplicar meus conhecimentos, aprender na prática e
+continuar evoluindo na área.  
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas  
+## 🛠️ Tecnologias e Ferramentas
 
-### 🎨 Front-end  
+### 🖥️ Suporte & TI
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+
+### 🎨 Desenvolvimento 
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
@@ -26,43 +34,12 @@ Atualmente, estou em busca da minha primeira oportunidade na área de tecnologia
 ### ⚙️ Ferramentas  
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-## 💼 Projetos em destaque  
-
-### 🎬 Clone da Netflix  
-🔗 https://netflix-cloned-by-mathias.vercel.app  
-📂 https://github.com/MathiasGG/netflix-clone  
-
-Projeto inspirado na interface da Netflix, com foco em responsividade e organização de layout, simulando uma aplicação real de streaming.  
-
-**Destaques:**  
-- Interface moderna e responsiva  
-- Estrutura de código organizada  
-- Boas práticas com HTML, CSS e JavaScript  
-
-**Tecnologias:** HTML, CSS, JavaScript  
-
----
-
-### 📝 To-Do List  
-🔗 https://to-do-list-by-mathias.vercel.app  
-📂 https://github.com/MathiasGG/to-do-list-by-mathias  
-
-Aplicação de lista de tarefas com foco em interatividade e manipulação do DOM, permitindo adicionar, remover e organizar tarefas.  
-
-**Destaques:**  
-- Manipulação de DOM com JavaScript  
-- Interatividade com o usuário  
-- Estrutura simples e funcional  
-
-**Tecnologias:** HTML, CSS, JavaScript  
-
----
-
-## 📌 Mais projetos  
+## 📌 Projetos  
 
 👉 https://github.com/MathiasGG  
 
@@ -70,6 +47,7 @@ Aplicação de lista de tarefas com foco em interatividade e manipulação do DO
 
 ## 📫 Contato  
 
+📃 
 💼 https://www.linkedin.com/in/mathiascorrêa2006  
 📧 https://mail.google.com/mail/?view=cm&fs=1&to=mathiascorrea2006@gmail.com  
 
