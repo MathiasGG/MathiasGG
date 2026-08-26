@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Mathias Corrêa  
 
-  📖 Estudante de Análise e Desenvolvimento de Sistemas 
-  💻 TI & Suporte | Buscando minha primeira oportunidade  
-  📍 Brasil  
+📖 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 TI & Suporte | Buscando minha primeira oportunidade  
+📍 Brasil  
 
 ---
 
@@ -52,10 +52,10 @@ continuar evoluindo na área.
 
 ## 📫 Contato  
 
- 📃 https://my-portfolio-mathias.vercel.app
+ 📃 https://my-portfolio-mathias.vercel.app  
  💼 https://www.linkedin.com/in/mathiascorrêa2006  
  📧 https://mail.google.com/mail/?view=cm&fs=1&to=mathiascorrea2006@gmail.com  
 
 ---
 
-⭐ Sempre buscando evoluir e aprender algo novo todos os dias.
+⭐ Em constante evolução, buscando aprender, aplicar meus conhecimentos e crescer profissionalmente na área de Tecnologia da Informação.
