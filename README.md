@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Mathias Corrêa  
 
-📖 Estudante de Análise e Desenvolvimento de Sistemas
-💻 TI & Suporte | Buscando minha primeira oportunidade  
-📍 Brasil  
+ 📖 Estudante de Análise e Desenvolvimento de Sistemas 
+ 💻 TI & Suporte | Buscando minha primeira oportunidade  
+ 📍 Brasil  
 
 ---
 
